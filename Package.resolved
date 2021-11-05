@@ -32,9 +32,9 @@
         "package": "mongo-swift-driver",
         "repositoryURL": "https://github.com/NotesClef/mongo-swift-driver.git",
         "state": {
-          "branch": null,
-          "revision": "737d18799b4b984830af26861f3afb5ccf98f403",
-          "version": "1.1.1"
+          "branch": "main",
+          "revision": "baa5ec94efe43c9e4b7e7f73c233f7c1c46570d1",
+          "version": null
         }
       },
       {
@@ -75,7 +75,7 @@
       },
       {
         "package": "swift-bson",
-        "repositoryURL": "https://github.com/mongodb/swift-bson",
+        "repositoryURL": "https://github.com/NotesClef/swift-bson.git",
         "state": {
           "branch": null,
           "revision": "711690b4703ca9f3891591c1012b462aedefef14",
